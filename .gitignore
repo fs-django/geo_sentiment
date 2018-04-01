@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+slide_show/.idea/slide_show.iml
+slide_show/.idea/misc.xml
+slide_show/.idea/modules.xml
+*.xml
